@@ -78,10 +78,3 @@ Dica: Se preferir usar o compilador `csc` diretamente, ele vem com o Visual Stud
 
 Durante a execução, o programa solicitará nome e idade, mostrará uma estimativa de ano de nascimento, calculará a média de uma lista de notas e salvará um arquivo `relatorio.txt` com um pequeno relatório.
 
-## Próximos passos sugeridos
-
-- Adicionar testes unitários (ex.: xUnit) para `CalcularMedia` e validações
-- Habilitar analisadores (StyleCop/Roslyn Analyzers) e regras de estilo
-- Separar em múltiplos arquivos/projetos à medida que o código crescer (camadas, domínios)
-
-Bons estudos e boa prática de código!
